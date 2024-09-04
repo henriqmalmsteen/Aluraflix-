@@ -1,6 +1,7 @@
 body{
     color: white;
     background: black;
+    font-family: "Lora", serif;
 }
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
@@ -17,6 +18,13 @@ section{
 
 }
 
-div {
-    margin-right: 20px;
+.chanada-texto {
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
 }
